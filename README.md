@@ -167,11 +167,50 @@ Mindfy is a role-based mental wellness platform developed using Python and Djang
 
 ## 📊 GitHub Overview
 
+## 💻 Primary Languages
+
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center" width="180">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="75" height="75" alt="Python"/>
+      <br/><br/>
+      <strong>Python</strong>
+      <br/>
+      <sub>Django and backend development</sub>
+    </td>
+    <td align="center" width="180">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="75" height="75" alt="PHP"/>
+      <br/><br/>
+      <strong>PHP</strong>
+      <br/>
+      <sub>Dynamic web applications</sub>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+---
+
+## 📊 GitHub Overview
+
 <div align="center">
 
 <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=chinmaiunni&theme=tokyonight" alt="Chinmai Unni's GitHub statistics"/>
-<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=chinmaiunni&theme=tokyonight" alt="Chinmai Unni's most used languages"/>
 
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=chinmaiunni&theme=tokyonight&utcOffset=5.5" alt="Chinmai Unni's productive coding time"/>
+
+<br/><br/>
+
+<img width="97%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chinmaiunni&theme=tokyonight" alt="Chinmai Unni's GitHub contribution activity"/>
+
+<br/><br/>
+
+<img width="70%" src="https://streak-stats.demolab.com?user=chinmaiunni&theme=tokyonight&hide_border=true" alt="Chinmai Unni's GitHub contribution streak"/>
+
+</div>
 <br/><br/>
 
 <img width="97%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chinmaiunni&theme=tokyonight" alt="Chinmai Unni's GitHub contribution activity"/>
