@@ -200,8 +200,6 @@ Mindfy is a role-based mental wellness platform developed using Python and Djang
 
 <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=chinmaiunni&theme=tokyonight" alt="Chinmai Unni's GitHub statistics"/>
 
-<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=chinmaiunni&theme=tokyonight&utcOffset=5.5" alt="Chinmai Unni's productive coding time"/>
-
 <br/><br/>
 
 <img width="97%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chinmaiunni&theme=tokyonight" alt="Chinmai Unni's GitHub contribution activity"/>
@@ -212,13 +210,6 @@ Mindfy is a role-based mental wellness platform developed using Python and Djang
 
 </div>
 <br/><br/>
-
-<img width="97%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chinmaiunni&theme=tokyonight" alt="Chinmai Unni's GitHub contribution activity"/>
-
-<br/><br/>
-
-<img width="70%" src="https://streak-stats.demolab.com?user=chinmaiunni&theme=tokyonight&hide_border=true" alt="Chinmai Unni's GitHub contribution streak"/>
-
 </div>
 
 ---
